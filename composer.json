@@ -1,5 +1,5 @@
 {
-	"name": "xpaw/php-source-query-class",
+	"name": "romkagolovadvayha/php-source-query-class",
 	"description": "PHP library to query and send RCON commands to servers based on \"Source Engine Query\" protocol",
 	"homepage": "https://github.com/xPaw/PHP-Source-Query",
 	"type": "library",
@@ -24,7 +24,7 @@
 	{
 		"psr-4":
 		{
-			"xPaw\\SourceQuery\\": "SourceQuery/"
+			"romkagolovadvayha\\SourceQuery\\": "SourceQuery/"
 		}
 	}
 }
